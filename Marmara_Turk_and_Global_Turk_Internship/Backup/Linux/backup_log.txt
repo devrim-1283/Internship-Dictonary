@@ -1,0 +1,835 @@
+2025-01-27 23:34:04 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:34:06 - INFO - Key dosyası silindi: /run/media/devrim/8AE6-4B5D/.key
+2025-01-27 23:34:06 - WARNING - Geçersiz key dosyası: /dev/sda (28.6 GB)
+2025-01-27 23:34:34 - INFO - Disk taraması başlatıldı
+2025-01-27 23:34:34 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:34:34 - INFO - Disk taraması tamamlandı
+2025-01-27 23:35:50 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:36:50 - INFO - Disk taraması başlatıldı
+2025-01-27 23:36:50 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:36:50 - INFO - Disk taraması tamamlandı
+2025-01-27 23:39:25 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:39:25 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:39:30 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:39:30 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:40:47 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:40:47 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:40:49 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:40:49 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:40:59 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:40:59 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:41:00 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:41:01 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:42:26 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:42:26 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:42:27 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:42:28 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:42:29 - INFO - Disk taraması başlatıldı
+2025-01-27 23:42:29 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:42:29 - INFO - Disk taraması tamamlandı
+2025-01-27 23:42:29 - INFO - Disk taraması başlatıldı
+2025-01-27 23:42:29 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:42:29 - INFO - Disk taraması tamamlandı
+2025-01-27 23:42:30 - INFO - Disk taraması başlatıldı
+2025-01-27 23:42:30 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:42:30 - INFO - Disk taraması tamamlandı
+2025-01-27 23:42:30 - INFO - Disk taraması başlatıldı
+2025-01-27 23:42:30 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:42:30 - INFO - Disk taraması tamamlandı
+2025-01-27 23:43:10 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:43:10 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:44:49 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:44:49 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:45:34 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:45:34 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:45:39 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:45:39 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:45:41 - INFO - Disk taraması başlatıldı
+2025-01-27 23:45:41 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:45:41 - INFO - Disk taraması tamamlandı
+2025-01-27 23:46:52 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:46:52 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:46:52 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:47:01 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:47:05 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:47:45 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:47:45 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:47:45 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:47:47 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:49:20 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:49:20 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:49:20 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:49:22 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:49:24 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:49:24 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:49:25 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:49:25 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:49:25 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:50:08 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:50:08 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:50:08 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:50:09 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:50:12 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:50:14 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:50:15 - INFO - Listeden öğe seçildi
+2025-01-27 23:50:16 - INFO - Listeden öğe seçildi
+2025-01-27 23:50:16 - INFO - Listeden silinen öğe: /home/devrim/Documents
+2025-01-27 23:50:17 - INFO - Liste seçimi kaldırıldı
+2025-01-27 23:50:17 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-27 23:51:11 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:51:11 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:51:11 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:51:13 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:14 - INFO - Listeden öğe seçildi
+2025-01-27 23:51:15 - INFO - Listeden öğe seçildi
+2025-01-27 23:51:16 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:17 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:19 - INFO - Listeden öğe seçildi
+2025-01-27 23:51:19 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-27 23:51:19 - INFO - Liste seçimi kaldırıldı
+2025-01-27 23:51:19 - INFO - Listeden silinen öğe: /home/devrim/Documents
+2025-01-27 23:51:20 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:20 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:20 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:20 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:21 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:21 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:51:22 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:29 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:51:29 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:51:29 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:51:31 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:51:32 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:38 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:53:38 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:53:38 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:53:39 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:53:41 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:42 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:42 - INFO - Listeden silinen öğe: /home/devrim/Documents
+2025-01-27 23:53:43 - ERROR - Öğe görmezden gelinirken hata: 'QStringListModel' object has no attribute 'setItem'
+2025-01-27 23:53:44 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-27 23:53:45 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:53:49 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:53:49 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:53:49 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:53:51 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:53:52 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:53 - ERROR - Öğe görmezden gelinirken hata: 'QStringListModel' object has no attribute 'setItem'
+2025-01-27 23:53:53 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:54 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:55 - INFO - Listeden öğe seçildi
+2025-01-27 23:53:55 - INFO - Listeden öğe seçildi
+2025-01-27 23:54:10 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:54:10 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:54:10 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:54:11 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:54:12 - INFO - Listeden öğe seçildi
+2025-01-27 23:54:13 - ERROR - Öğe görmezden gelinirken hata: 'QStringListModel' object has no attribute 'setItem'
+2025-01-27 23:56:49 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:56:49 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:56:49 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:56:51 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:56:51 - INFO - Listeden öğe seçildi
+2025-01-27 23:56:52 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-27 23:56:52 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Desktop*
+2025-01-27 23:56:53 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-27 23:56:54 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Desktop*
+2025-01-27 23:56:54 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-27 23:56:55 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Desktop*
+2025-01-27 23:56:56 - INFO - Listeden öğe seçildi
+2025-01-27 23:56:56 - INFO - Öğe görmezden gelindi: /home/devrim/Documents
+2025-01-27 23:56:57 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Documents*
+2025-01-27 23:56:57 - INFO - Listeden öğe seçildi
+2025-01-27 23:56:57 - INFO - Listeden silinen öğe: /home/devrim/Documents
+2025-01-27 23:56:58 - INFO - Liste seçimi kaldırıldı
+2025-01-27 23:56:58 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-27 23:58:33 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-27 23:58:33 - INFO - Başlangıç durumları ayarlandı
+2025-01-27 23:58:33 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-27 23:58:35 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-27 23:58:38 - INFO - Yeni klasör eklendi: /home/devrim/Music
+2025-01-27 23:58:42 - INFO - Yeni klasör eklendi: /home/devrim/Pictures
+2025-01-27 23:58:46 - INFO - Yeni klasör eklendi: /home/devrim/Public
+2025-01-27 23:58:49 - INFO - Klasör seçimi iptal edildi
+2025-01-27 23:58:52 - WARNING - Klasör zaten listede mevcut: /home/devrim/Public
+2025-01-27 23:58:55 - WARNING - Klasör zaten listede mevcut: /home/devrim/Public
+2025-01-27 23:58:57 - INFO - Listeden öğe seçildi
+2025-01-27 23:58:58 - INFO - Listeden öğe seçildi
+2025-01-27 23:58:58 - INFO - Listeden silinen öğe: /home/devrim/Public
+2025-01-27 23:58:58 - INFO - Listeden öğe seçildi
+2025-01-27 23:58:58 - INFO - Listeden silinen öğe: /home/devrim/Pictures
+2025-01-27 23:58:59 - INFO - Listeden öğe seçildi
+2025-01-27 23:58:59 - INFO - Listeden silinen öğe: /home/devrim/Music
+2025-01-27 23:59:00 - INFO - Öğe görmezden gelindi: /home/devrim/Documents
+2025-01-27 23:59:01 - INFO - Listeden öğe seçildi
+2025-01-27 23:59:01 - INFO - Listeden silinen öğe: /home/devrim/Documents*
+2025-01-27 23:59:02 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-27 23:59:03 - INFO - Liste seçimi kaldırıldı
+2025-01-27 23:59:03 - INFO - Listeden silinen öğe: /home/devrim/Desktop*
+2025-01-27 23:59:11 - INFO - Yeni klasör eklendi: /home/devrim/Desktop
+2025-01-27 23:59:13 - INFO - Yeni klasör eklendi: /home/devrim/Documents
+2025-01-27 23:59:14 - INFO - Listeden öğe seçildi
+2025-01-27 23:59:15 - INFO - Öğe görmezden gelindi: /home/devrim/Documents
+2025-01-27 23:59:15 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Documents*
+2025-01-27 23:59:16 - INFO - Listeden öğe seçildi
+2025-01-27 23:59:16 - INFO - Listeden silinen öğe: /home/devrim/Documents
+2025-01-27 23:59:16 - INFO - Liste seçimi kaldırıldı
+2025-01-27 23:59:16 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 00:30:49 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:30:49 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:30:49 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:30:54 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 00:30:55 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:31:10 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:31:10 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:31:10 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:32:14 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:32:14 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:32:14 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:34:04 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:34:04 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:34:04 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:34:07 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:34:07 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:34:09 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:34:11 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:35:06 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:35:06 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:35:06 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:35:07 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:35:08 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:35:10 - INFO - Disk taraması başlatıldı
+2025-01-28 00:35:10 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:35:10 - INFO - Disk taraması tamamlandı
+2025-01-28 00:39:32 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:39:32 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:39:32 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:41:09 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:41:09 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:41:09 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:41:10 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:42:04 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:42:04 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:42:04 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:42:06 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:42:06 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:43:40 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:43:40 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:43:40 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:43:42 - INFO - Backup klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup
+2025-01-28 00:43:42 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.43.42
+2025-01-28 00:46:27 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:46:27 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:46:27 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:46:30 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.46.30
+2025-01-28 00:47:38 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:47:38 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:47:38 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:47:40 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.47.40
+2025-01-28 00:47:40 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 00:47:40 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:47:40 - ERROR - Yedekleme işleminde hata: Klasör yedeklenirken hata: /home/devrim/Desktop - name 'shutil' is not defined
+2025-01-28 00:47:40 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 00:47:40 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:47:40 - ERROR - Yedekleme işleminde hata: Klasör yedeklenirken hata: /home/devrim/Documents - name 'shutil' is not defined
+2025-01-28 00:47:40 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:47:40 - INFO - Yedekleme tamamlandı. Kopyalanan: 0, Atlanan: 0
+2025-01-28 00:48:43 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:48:43 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:48:43 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:48:45 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.48.45
+2025-01-28 00:48:45 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 00:51:15 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:51:15 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:51:15 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:51:18 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 00:51:18 - INFO - Listeden öğe seçildi
+2025-01-28 00:51:19 - INFO - Listeden öğe seçildi
+2025-01-28 00:51:19 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-28 00:51:21 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.51.21
+2025-01-28 00:51:21 - INFO - Klasör görmezden gelindi: /home/devrim/Desktop*
+2025-01-28 00:51:21 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 00:51:21 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 00:51:21 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 00:51:21 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 1
+2025-01-28 00:51:24 - INFO - Listeden öğe seçildi
+2025-01-28 00:51:25 - INFO - Listeden öğe seçildi
+2025-01-28 00:51:26 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Desktop*
+2025-01-28 00:51:27 - INFO - Listeden öğe seçildi
+2025-01-28 00:51:29 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.51.29
+2025-01-28 00:51:29 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 00:52:21 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:52:21 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:52:21 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:52:24 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.52.24
+2025-01-28 00:52:24 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 00:52:25 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:52:25 - INFO - Yedekleme kullanıcı tarafından durduruldu
+2025-01-28 00:53:10 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:53:10 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:53:10 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:53:11 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/devrim-28.01.2025-00.53.11
+2025-01-28 00:53:11 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 00:53:12 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 00:53:12 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 00:55:18 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:55:18 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:55:18 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 00:55:21 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 00:55:21 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 00:55:22 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 00:55:22 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:55:22 - INFO - Şifreleme etkinleştirildi
+2025-01-28 00:55:23 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:55:23 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 00:55:23 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 00:55:24 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 00:55:24 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 00:55:24 - INFO - Şifreleme etkinleştirildi
+2025-01-28 00:55:25 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 00:55:25 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 00:55:27 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 00:58:33 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 00:58:33 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 00:58:33 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:00:31 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 01:00:31 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:00:31 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:02:16 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 01:02:16 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:02:16 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:02:18 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:02:20 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:02:20 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:02:23 - INFO - Tarih klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025
+2025-01-28 01:02:23 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:02:23 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 01:02:23 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 01:02:23 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:02:23 - ERROR - Yedekleme işleminde hata: Klasör yedeklenirken hata: /home/devrim/Desktop - 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 01:02:23 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:02:23 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:02:24 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:02:24 - INFO - Yedekleme tamamlandı. Kopyalanan: 0, Atlanan: 0
+2025-01-28 01:03:41 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 01:03:41 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:03:41 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:03:42 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:03:43 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:03:43 - INFO - Zip dosyası oluşturuluyor...
+2025-01-28 01:03:43 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 01:03:59 - INFO - Klasör yedeklendi: /home/devrim/Desktop
+2025-01-28 01:03:59 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:03:59 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:04:10 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:04:10 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:07:41 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 01:07:41 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:07:41 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:07:44 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:07:46 - INFO - Eski yedekleme klasörü silindi: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:07:46 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:07:46 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 01:07:54 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:07:54 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:07:56 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:07:56 - INFO - Listeden öğe seçildi
+2025-01-28 01:07:57 - INFO - Öğe görmezden gelindi: /home/devrim/Documents
+2025-01-28 01:07:59 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:07:59 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:09:06 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 01:09:06 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:09:06 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:09:08 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:09:10 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:09:10 - INFO - Listeden öğe seçildi
+2025-01-28 01:09:11 - INFO - Öğe görmezden gelindi: /home/devrim/Documents
+2025-01-28 01:09:13 - INFO - Öğe görmezden gelme kaldırıldı: /home/devrim/Documents*
+2025-01-28 01:09:14 - INFO - Listeden öğe seçildi
+2025-01-28 01:09:15 - INFO - Öğe görmezden gelindi: /home/devrim/Desktop
+2025-01-28 01:09:16 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:09:16 - INFO - Klasör görmezden gelindi: /home/devrim/Desktop*
+2025-01-28 01:09:16 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:09:16 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:09:16 - INFO - Yedekleme sıkıştırılıyor...
+2025-01-28 01:09:16 - INFO - Zip dosyası oluşturuldu
+2025-01-28 01:09:16 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:09:16 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 1
+2025-01-28 01:09:46 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:09:46 - INFO - Klasör görmezden gelindi: /home/devrim/Desktop*
+2025-01-28 01:09:46 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:09:46 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:09:46 - INFO - Yedekleme sıkıştırılıyor...
+2025-01-28 01:09:47 - INFO - Zip dosyası oluşturuldu
+2025-01-28 01:09:47 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:09:47 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 1
+2025-01-28 01:10:10 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:10:10 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:10:10 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:10:10 - INFO - Klasör görmezden gelindi: /home/devrim/Desktop*
+2025-01-28 01:10:10 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:10:11 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:10:11 - INFO - Yedekleme sıkıştırılıyor...
+2025-01-28 01:10:11 - INFO - Zip dosyası şifreleniyor...
+2025-01-28 01:10:11 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:10:11 - ERROR - Yedekleme işleminde hata: 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 01:15:07 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:15:07 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:15:07 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:15:09 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:15:09 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:15:09 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:15:10 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:15:10 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 01:15:12 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:12 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:14 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:15:14 - INFO - Listeden öğe seçildi
+2025-01-28 01:15:15 - INFO - Listeden öğe seçildi
+2025-01-28 01:15:16 - INFO - Listeden öğe seçildi
+2025-01-28 01:15:16 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:15:16 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:15:16 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:19 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:15:19 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:21 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:22 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:22 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:22 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:22 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:15:22 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:15:22 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 01:18:58 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:18:58 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:18:58 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:19:00 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:19:01 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:19:01 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:19:06 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:19:06 - INFO - Listeden öğe seçildi
+2025-01-28 01:19:08 - INFO - Listeden öğe seçildi
+2025-01-28 01:19:08 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:19:09 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:19:09 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:19:09 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:19:09 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 01:19:09 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:19:09 - ERROR - Yedekleme işleminde hata: Şifreleme hatası: 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 01:21:07 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:21:07 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:21:07 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:21:15 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:21:15 - INFO - Listeden öğe seçildi
+2025-01-28 01:21:16 - INFO - Listeden öğe seçildi
+2025-01-28 01:21:16 - INFO - Listeden öğe seçildi
+2025-01-28 01:21:16 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:21:17 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:21:17 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:21:18 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:21:18 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:21:18 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 01:21:26 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:21:28 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:21:28 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:21:28 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:21:28 - INFO - Zip dosyası oluşturuluyor...
+2025-01-28 01:21:28 - INFO - Zip dosyası oluşturuldu
+2025-01-28 01:21:28 - INFO - Orijinal klasör silindi
+2025-01-28 01:21:28 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:21:28 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 01:21:47 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:21:47 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:21:49 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:21:49 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:21:49 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:21:49 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 01:21:49 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:21:49 - ERROR - Yedekleme işleminde hata: Zip oluşturma hatası: 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 01:24:16 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:24:16 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:24:16 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:24:20 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:24:21 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:24:22 - INFO - Listeden öğe seçildi
+2025-01-28 01:24:22 - INFO - Listeden öğe seçildi
+2025-01-28 01:24:22 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:24:25 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 01:24:26 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:24:26 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:24:26 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:24:26 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:24:26 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:24:26 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 01:24:34 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:24:35 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:24:35 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:24:35 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:24:35 - INFO - Zip dosyası oluşturuluyor...
+2025-01-28 01:24:35 - INFO - Zip dosyası oluşturuldu
+2025-01-28 01:24:35 - INFO - Orijinal klasör silindi
+2025-01-28 01:24:35 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:24:35 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 01:24:42 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:24:42 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:24:43 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:24:43 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:24:43 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:24:43 - INFO - Zip dosyası oluşturuluyor...
+2025-01-28 01:24:43 - INFO - Zip dosyası şifreleniyor...
+2025-01-28 01:24:43 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 01:24:43 - ERROR - Yedekleme işleminde hata: Zip oluşturma hatası: 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 01:25:38 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:25:38 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:25:38 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:25:49 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:25:49 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:25:49 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:25:49 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 01:25:49 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 01:25:49 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 01:25:50 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:25:50 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:25:50 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:25:52 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:25:52 - INFO - Listeden öğe seçildi
+2025-01-28 01:25:54 - INFO - Listeden öğe seçildi
+2025-01-28 01:25:54 - INFO - Listeden öğe seçildi
+2025-01-28 01:25:54 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:25:55 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:25:55 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:25:56 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:25:56 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 01:25:56 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:25:56 - ERROR - Yedekleme işleminde hata: Zip oluşturma hatası: [Errno 2] No such file or directory: '7z'
+2025-01-28 01:27:56 - INFO - Geçerli disk bulundu: /dev/sdb (28.6 GB)
+2025-01-28 01:27:56 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 01:27:56 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 01:28:17 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:28:18 - INFO - Listeden öğe seçildi
+2025-01-28 01:28:19 - INFO - Listeden öğe seçildi
+2025-01-28 01:28:19 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 01:28:19 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:28:19 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:28:19 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:28:20 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 01:28:20 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 01:28:20 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 01:28:20 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 01:28:22 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 01:28:22 - INFO - Şifreleme etkinleştirildi
+2025-01-28 01:28:28 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 01:28:28 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 01:28:28 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 01:28:28 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 01:28:28 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 01:28:28 - ERROR - Yedekleme işleminde hata: Zip oluşturma hatası: 'NoneType' object has no attribute 'update_zipinfo'
+2025-01-28 12:10:41 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:10:41 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:10:41 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:11:17 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:11:17 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 12:17:35 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:17:36 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 12:24:51 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:24:51 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:24:51 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:25:03 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:25:04 - INFO - Listeden öğe seçildi
+2025-01-28 12:25:04 - INFO - Listeden öğe seçildi
+2025-01-28 12:25:04 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:25:08 - INFO - Yeni klasör eklendi: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:25:11 - INFO - Eski yedekleme klasörü silindi: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:25:11 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:25:11 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:25:11 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:25:11 - INFO - Yedekleniyor: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:26:24 - INFO - Klasör yedeklendi: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:26:24 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:26:24 - INFO - Yedekleme tamamlandı. Kopyalanan: 2, Atlanan: 0
+2025-01-28 12:27:01 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:27:01 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:27:01 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:27:19 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:27:19 - INFO - Listeden öğe seçildi
+2025-01-28 12:27:21 - INFO - Listeden öğe seçildi
+2025-01-28 12:27:21 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:27:23 - INFO - Yeni klasör eklendi: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:27:26 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:27:26 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:27:26 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:27:28 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:27:28 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:27:28 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:27:28 - INFO - Yedekleniyor: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:27:37 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:27:37 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 12:27:42 - INFO - Listeden öğe seçildi
+2025-01-28 12:27:42 - INFO - Listeden öğe seçildi
+2025-01-28 12:27:43 - INFO - Listeden öğe seçildi
+2025-01-28 12:27:43 - INFO - Listeden silinen öğe: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:27:45 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:27:45 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 12:27:46 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:27:46 - ERROR - Yedekleme işleminde hata: 'BackupApp' object has no attribute 'progress'
+2025-01-28 12:28:07 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:28:07 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:28:07 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:28:11 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:28:11 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:28:11 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:28:12 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:28:13 - INFO - Listeden öğe seçildi
+2025-01-28 12:28:14 - INFO - Listeden öğe seçildi
+2025-01-28 12:28:14 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:28:15 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:28:15 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:28:15 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:28:15 - INFO - Şifreli arşiv dosyası oluşturuluyor...
+2025-01-28 12:28:15 - INFO - Arşiv dosyası şifrelendi
+2025-01-28 12:28:15 - INFO - Orijinal klasör silindi
+2025-01-28 12:28:15 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:28:15 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:28:26 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 12:28:26 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 12:28:27 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 12:28:28 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:28:29 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:28:29 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:28:29 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:28:29 - INFO - Arşiv dosyası oluşturuluyor...
+2025-01-28 12:28:29 - INFO - Arşiv dosyası oluşturuldu
+2025-01-28 12:28:30 - INFO - Orijinal klasör silindi
+2025-01-28 12:28:30 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:28:30 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:29:41 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:29:41 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:29:41 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:29:53 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:29:53 - INFO - Listeden öğe seçildi
+2025-01-28 12:29:54 - INFO - Listeden öğe seçildi
+2025-01-28 12:29:54 - INFO - Listeden öğe seçildi
+2025-01-28 12:29:55 - INFO - Listeden öğe seçildi
+2025-01-28 12:29:55 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:29:57 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:30:00 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:30:00 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 12:30:01 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:30:01 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:30:01 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:30:01 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:30:01 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:30:04 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:30:05 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:30:05 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:30:05 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:30:05 - INFO - Arşiv dosyası oluşturuluyor...
+2025-01-28 12:30:05 - INFO - Arşiv dosyası oluşturuldu
+2025-01-28 12:30:05 - INFO - Orijinal klasör silindi
+2025-01-28 12:30:05 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:30:05 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:30:18 - INFO - Sıkıştırma devre dışı bırakıldı
+2025-01-28 12:30:19 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:30:19 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:30:19 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:30:20 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:30:20 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:30:20 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:30:20 - INFO - Şifreli arşiv dosyası oluşturuluyor...
+2025-01-28 12:30:20 - INFO - Arşiv dosyası şifrelendi
+2025-01-28 12:30:20 - INFO - Orijinal klasör silindi
+2025-01-28 12:30:20 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:30:20 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:32:04 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:32:04 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:32:04 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:32:05 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:32:05 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:32:05 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:32:11 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:32:11 - INFO - Listeden öğe seçildi
+2025-01-28 12:32:12 - INFO - Listeden öğe seçildi
+2025-01-28 12:32:12 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:32:13 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:32:13 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:32:13 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:32:13 - INFO - Şifreli arşiv dosyası oluşturuluyor...
+2025-01-28 12:32:13 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:32:13 - ERROR - Yedekleme işleminde hata: Arşiv oluşturma hatası: SevenZipFile.__init__() got an unexpected keyword argument 'cryptodecrypt'
+2025-01-28 12:32:44 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:32:44 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:32:44 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:32:47 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:32:47 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:32:47 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:32:48 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:32:48 - INFO - Listeden öğe seçildi
+2025-01-28 12:32:49 - INFO - Listeden öğe seçildi
+2025-01-28 12:32:49 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:32:50 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:32:50 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:32:50 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:32:50 - INFO - Şifreli arşiv dosyası oluşturuluyor...
+2025-01-28 12:32:50 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:32:50 - ERROR - Yedekleme işleminde hata: Arşiv oluşturma hatası: SevenZipFile.__init__() got an unexpected keyword argument 'cryptodecrypt'
+2025-01-28 12:34:04 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:34:04 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:34:04 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:34:14 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:34:14 - INFO - Listeden öğe seçildi
+2025-01-28 12:34:15 - INFO - Listeden öğe seçildi
+2025-01-28 12:34:16 - INFO - Listeden öğe seçildi
+2025-01-28 12:34:16 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:34:17 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:34:21 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:34:21 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:34:21 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:34:21 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:34:21 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:34:28 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:34:29 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:34:29 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:34:29 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:34:29 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:34:29 - INFO - Arşiv oluşturuldu
+2025-01-28 12:34:29 - INFO - Orijinal klasör silindi
+2025-01-28 12:34:29 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:34:29 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:34:37 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:34:37 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:34:40 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:34:40 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:34:40 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:34:40 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:34:40 - INFO - Arşiv şifreleniyor...
+2025-01-28 12:34:40 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:34:40 - ERROR - Yedekleme işleminde hata: Arşiv işlemi sırasında hata: Wrong argument type given.
+2025-01-28 12:39:48 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:39:53 - INFO - Yeni klasör eklendi: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:39:55 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:39:55 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:39:55 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:39:55 - INFO - Yedekleniyor: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:41:21 - INFO - Klasör yedeklendi: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:41:21 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:42:48 - INFO - Arşiv şifreleniyor...
+2025-01-28 12:42:48 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:42:48 - ERROR - Yedekleme işleminde hata: Arşiv işlemi sırasında hata: Wrong argument type given.
+2025-01-28 12:43:08 - INFO - Şifre kontrolleri devre dışı bırakıldı
+2025-01-28 12:43:08 - INFO - Şifreleme devre dışı bırakıldı
+2025-01-28 12:43:11 - INFO - Listeden öğe seçildi
+2025-01-28 12:43:12 - INFO - Listeden öğe seçildi
+2025-01-28 12:43:12 - INFO - Listeden silinen öğe: /home/devrim/Desktop/Devrim-Tuncer
+2025-01-28 12:43:13 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:43:13 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:43:13 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:43:13 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:43:14 - INFO - Arşiv oluşturuldu
+2025-01-28 12:43:14 - INFO - Orijinal klasör silindi
+2025-01-28 12:43:14 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:43:14 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:44:22 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:44:22 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:44:22 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:44:34 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:44:34 - INFO - Listeden öğe seçildi
+2025-01-28 12:44:35 - INFO - Listeden öğe seçildi
+2025-01-28 12:44:35 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 12:44:35 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:44:35 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:44:36 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:44:36 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:44:36 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:44:41 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:44:41 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:44:41 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:44:42 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:44:42 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:44:42 - INFO - Zip dosyası oluşturuldu
+2025-01-28 12:44:42 - INFO - Orijinal klasör silindi
+2025-01-28 12:44:42 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:44:42 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:44:50 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:44:50 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:44:51 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:44:51 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 12:44:52 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 12:44:52 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 12:44:52 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 12:44:52 - INFO - Zip dosyası şifrelendi
+2025-01-28 12:44:52 - INFO - Orijinal klasör silindi
+2025-01-28 12:44:52 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 12:44:52 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 12:45:13 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 12:47:14 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 12:47:14 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 12:47:14 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 12:47:14 - INFO - Varsayılan şifre yüklendi
+2025-01-28 12:47:15 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 12:47:15 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 12:47:15 - INFO - Şifreleme etkinleştirildi
+2025-01-28 12:47:18 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 12:47:18 - INFO - Yedekleniyor: /home/devrim/Desktop
+2025-01-28 13:11:14 - INFO - Klasör yedeklendi: /home/devrim/Desktop
+2025-01-28 13:11:14 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 13:11:14 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 13:11:14 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 13:11:14 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 13:12:02 - INFO - Zip dosyası şifrelendi
+2025-01-28 13:13:44 - INFO - Orijinal klasör silindi
+2025-01-28 13:13:44 - INFO - Klasör düzenleme kontrolleri devre dışı bırakıldı
+2025-01-28 13:13:44 - INFO - Yedekleme tamamlandı. Kopyalanan: 2, Atlanan: 0
+2025-01-28 13:17:08 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 13:17:08 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 13:17:08 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 13:17:08 - INFO - Varsayılan şifre yüklendi
+2025-01-28 13:17:11 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 13:17:11 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 13:17:11 - INFO - Şifreleme etkinleştirildi
+2025-01-28 13:17:12 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 13:17:12 - INFO - Listeden öğe seçildi
+2025-01-28 13:17:13 - INFO - Listeden öğe seçildi
+2025-01-28 13:17:13 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 13:17:23 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 13:17:23 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 13:17:23 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 13:17:23 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 13:17:23 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 13:17:23 - INFO - Zip dosyası şifrelendi
+2025-01-28 13:17:23 - INFO - Orijinal klasör silindi
+2025-01-28 13:17:23 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 13:17:23 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 13:17:42 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 13:17:42 - INFO - Başlangıç durumları ayarlandı
+2025-01-28 13:17:42 - INFO - Varsayılan klasörler eklendi: ['/home/devrim/Desktop', '/home/devrim/Documents']
+2025-01-28 13:17:43 - INFO - Varsayılan şifre yüklendi
+2025-01-28 13:17:44 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 13:17:44 - INFO - Listeden öğe seçildi
+2025-01-28 13:17:45 - INFO - Listeden öğe seçildi
+2025-01-28 13:17:45 - INFO - Listeden silinen öğe: /home/devrim/Desktop
+2025-01-28 13:17:47 - INFO - Sıkıştırma etkinleştirildi
+2025-01-28 13:17:47 - INFO - Şifre kontrolleri etkinleştirildi
+2025-01-28 13:17:47 - INFO - Şifreleme etkinleştirildi
+2025-01-28 13:17:48 - INFO - Yedekleme klasörü oluşturuldu: /run/media/devrim/8AE6-4B5D/Backup/28.01.2025/devrim
+2025-01-28 13:17:48 - INFO - Yedekleniyor: /home/devrim/Documents
+2025-01-28 13:17:48 - INFO - Klasör yedeklendi: /home/devrim/Documents
+2025-01-28 13:17:48 - INFO - Dosyalar sıkıştırılıyor...
+2025-01-28 13:17:48 - INFO - Şifreli zip dosyası oluşturuluyor...
+2025-01-28 13:17:48 - INFO - Zip dosyası şifrelendi
+2025-01-28 13:17:48 - INFO - Orijinal klasör silindi
+2025-01-28 13:17:48 - INFO - Klasör düzenleme kontrolleri etkinleştirildi
+2025-01-28 13:17:48 - INFO - Yedekleme tamamlandı. Kopyalanan: 1, Atlanan: 0
+2025-01-28 13:18:07 - INFO - Disk taraması başlatıldı
+2025-01-28 13:18:07 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 13:18:07 - INFO - Disk taraması tamamlandı
+2025-01-28 13:18:08 - INFO - Disk taraması başlatıldı
+2025-01-28 13:18:08 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 13:18:08 - INFO - Disk taraması tamamlandı
+2025-01-28 13:18:08 - INFO - Disk taraması başlatıldı
+2025-01-28 13:18:08 - INFO - Geçerli disk bulundu: /dev/sda (28.6 GB)
+2025-01-28 13:18:08 - INFO - Disk taraması tamamlandı

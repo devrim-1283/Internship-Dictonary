@@ -1,0 +1,121 @@
+2025-01-28 15:44:55 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 15:44:55 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 15:44:55 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 15:44:55 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 15:45:06 - INFO - Klasör düzenleme kontrolleri etkinleþtirildi
+2025-01-28 15:45:06 - INFO - Listeden öðe seçildi
+2025-01-28 15:45:07 - INFO - Listeden öðe seçildi
+2025-01-28 15:45:07 - INFO - Listeden silinen öðe: C:\Users\devri\Desktop
+2025-01-28 15:45:08 - INFO - Sýkýþtýrma etkinleþtirildi
+2025-01-28 15:45:08 - INFO - Þifre kontrolleri etkinleþtirildi
+2025-01-28 15:45:08 - INFO - Þifreleme etkinleþtirildi
+2025-01-28 15:45:10 - INFO - Yedekleniyor: C:\Users\devri\Documents
+2025-01-28 15:45:10 - INFO - Klasör yedeklendi: C:\Users\devri\Documents
+2025-01-28 15:45:10 - INFO - Dosyalar sýkýþtýrýlýyor...
+2025-01-28 15:45:10 - INFO - Þifreli zip dosyasý oluþturuluyor...
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\AD_Port
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\desktop.ini
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\qtquickcontrols2.conf
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject.qmlproject
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject.qmlproject.qtds
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\Generated\Generated.txt
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject\Constants.qml
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject\EventListModel.qml
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject\EventListSimulator.qml
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject\qmldir
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProject\designer\plugin.metainfo
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProjectContent\App.qml
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProjectContent\Screen01.ui.qml
+2025-01-28 15:45:10 - INFO - Sýkýþtýrýlýyor: IT\Documents\UntitledProject\UntitledProjectContent\fonts\fonts.txt
+2025-01-28 15:45:10 - INFO - Þifreli zip dosyasý oluþturuldu
+2025-01-28 15:45:10 - INFO - Zip dosyasý oluþturuldu
+2025-01-28 15:45:10 - INFO - Orijinal klasör silindi
+2025-01-28 15:45:10 - INFO - Klasör düzenleme kontrolleri etkinleþtirildi
+2025-01-28 15:45:10 - INFO - Yedekleme tamamlandý. Kopyalanan: 1, Atlanan: 0
+2025-01-28 15:55:55 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 15:55:55 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 15:55:55 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 15:55:55 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 15:56:06 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 15:56:06 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 15:56:06 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 15:56:06 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 15:57:18 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 15:57:18 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 15:57:18 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 15:57:18 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 16:16:38 - INFO - Geçerli disk bulundu: E:\ (28.6 GB)
+2025-01-28 16:16:38 - INFO - Baþlangýç durumlarý ayarlandý
+2025-01-28 16:16:38 - INFO - Varsayýlan klasörler eklendi: ['C:\\Users\\devri\\Desktop', 'C:\\Users\\devri\\Documents']
+2025-01-28 16:16:38 - INFO - Varsayýlan þifre yüklendi
+2025-01-28 16:19:45 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:19:45 - INFO - Initial states set
+2025-01-28 16:19:45 - INFO - Default folders added
+2025-01-28 16:19:45 - INFO - Default password loaded
+2025-01-28 16:19:47 - INFO - Backing up: C:\Users\devri\Desktop
+2025-01-28 16:19:49 - INFO - Stopping backup process...
+2025-01-28 16:19:50 - INFO - Folder editing controls disabled
+2025-01-28 16:19:50 - INFO - Backup stopped by user
+2025-01-28 16:19:50 - INFO - Stopping backup process...
+2025-01-28 16:19:50 - INFO - Folder editing controls disabled
+2025-01-28 16:19:50 - INFO - Backup completed. Copied: 0, Skipped: 0
+2025-01-28 16:19:53 - INFO - Compression enabled
+2025-01-28 16:19:53 - INFO - Password controls enabled
+2025-01-28 16:19:53 - INFO - Encryption enabled
+2025-01-28 16:19:54 - INFO - Password controls disabled
+2025-01-28 16:19:54 - INFO - Encryption disabled
+2025-01-28 16:19:56 - INFO - Folder editing controls enabled
+2025-01-28 16:19:56 - INFO - Folder editing controls disabled
+2025-01-28 16:23:59 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:23:59 - INFO - Initial states set
+2025-01-28 16:23:59 - INFO - Default folders added
+2025-01-28 16:23:59 - INFO - Default password loaded
+2025-01-28 16:24:06 - INFO - Folder editing controls enabled
+2025-01-28 16:24:06 - INFO - Folder editing controls disabled
+2025-01-28 16:24:07 - INFO - Folder editing controls enabled
+2025-01-28 16:24:07 - INFO - Folder editing controls disabled
+2025-01-28 16:25:08 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:25:08 - INFO - Initial states set
+2025-01-28 16:25:08 - INFO - Default folders added
+2025-01-28 16:25:08 - INFO - Default password loaded
+2025-01-28 16:25:35 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:25:35 - INFO - Initial states set
+2025-01-28 16:25:35 - INFO - Default folders added
+2025-01-28 16:25:35 - INFO - Default password loaded
+2025-01-28 16:49:07 - INFO - Valid disk found: E:\ (28.6 GB)
+2025-01-28 16:49:07 - INFO - Initial states set
+2025-01-28 16:49:07 - INFO - Default folders added
+2025-01-28 16:49:07 - INFO - Default password loaded
+2025-01-28 16:49:11 - INFO - Backing up: C:\Users\devri\Desktop
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.idx
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.pack
+2025-01-28 16:49:16 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.rev
+2025-01-28 16:49:17 - INFO - Stopping backup process...
+2025-01-28 16:49:17 - INFO - Folder editing controls disabled
+2025-01-28 16:49:17 - INFO - Backup stopped by user
+2025-01-28 16:49:17 - INFO - Stopping backup process...
+2025-01-28 16:49:17 - INFO - Folder editing controls disabled
+2025-01-28 16:49:17 - INFO - Backup completed. Copied: 0, Skipped: 0
+2025-01-28 16:49:19 - INFO - Backing up: C:\Users\devri\Desktop
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\14\539b06444d0db16c4bd935e5b8f61a2abd4f36
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\15\3f0d83b08d7fecf86f1d520094667754a90321
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\18\b3f60d1e8e61ed55e3da4b03507fd05f3d832c
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\2c\b45e2dc2d1723d8a4045dd270bb3ccb3946608
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\36\94a51b87cbaba41338f9e0ea34a44ea15fa81a
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\42\936c90bafa8343cda93506f2cdbd94940a831d
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\52\1bb35cf1099049df7a5a8407f48cac827cbf02
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\5b\a85b9d6b9045faba3d3b7c10564348e0a2dbd6
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\63\bf3c305c5bd6ebcbee5f4dff9847a6db7ca446
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\a2\896e5896d9446dcfbe2d569a54c98ce159b14e
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d0\3d74829eda0b5a9bc0b5d84047c723d16eed47
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d6\a3035739755e182064448900afff7edee78a32
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\d8\9087fdc27ac452db343a8141d406cbf3fbcddd
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.idx
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.pack
+2025-01-28 16:49:20 - INFO - Could not copy file: C:\Users\devri\Desktop\Internship-Dictionary\.git\objects\pack\pack-3a2071492e508be0022c15971eed025cca6bbf34.rev
+2025-01-28 16:49:21 - INFO - Stopping backup process...
+2025-01-28 16:49:22 - INFO - Folder editing controls disabled
+2025-01-28 16:49:22 - INFO - Backup stopped by user
+2025-01-28 16:49:22 - INFO - Stopping backup process...
+2025-01-28 16:49:22 - INFO - Folder editing controls disabled
+2025-01-28 16:49:22 - INFO - Backup completed. Copied: 0, Skipped: 0
