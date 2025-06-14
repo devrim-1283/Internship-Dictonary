@@ -31,6 +31,18 @@ This document summarizes the projects I developed during my internship at Marmar
   - User-friendly interface.
   - Removable disk support and logging.
 
+###  3. Bank Report Analysis
+
+   - **Purpose**: To analyze incoming bank reports and calculate the total daily transaction amount.
+   - **Technologies Used**:
+       - **Python**: The main programming language of the project.
+       - **PyQt5**: Used for creating the user interface.
+       - **Pandas**: A data analysis library used for processing report data and exporting to Excel files.
+   - **Features**:
+       - Calculates daily transaction totals from bank reports.
+       - Allows exporting the analysis results to an Excel file.
+       - User-friendly interface.
+
 ## Contact
 
 If you have any questions or feedback, please contact me:
@@ -78,6 +90,17 @@ Bu dosya, Marmara Turk ve Global Turk'te yaptığım staj süresince geliştirdi
   - Kullanıcı dostu arayüz.
   - Çıkarılabilir disk desteği ve loglama.
 
+### 3. Banka Rapor Analizi
+
+   - **Amaç:** Gelen banka raporlarını analiz ederek günlük işlem tutarını hesaplamak.
+   - **Kullanılan Teknolojiler**:
+       - **Python**: Projenin temel programlama dili.
+       - **PyQt5**: Kullanıcı arayüzü oluşturmak için.
+       - **Pandas**: Rapor verilerini işlemek ve Excel dosyalarına aktarmak için kullanılan veri analizi kütüphanesi.
+    - **Özellikler**:
+       - Banka raporlarından günlük işlem tutarlarını hesaplama.
+       - Analiz sonuçlarını Excel dosyasına aktarma.
+       - Kullanıcı dostu arayüz.
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen benimle iletişime geçin:

@@ -20,6 +20,14 @@ My first internship is ongoing at Marmara Turk and Global Turk companies. During
      - Easy use with a user interface.
    - **Technologies Used:** Python, Tkinter, SQLite, Pandas
 
+3. **Bank Report Analysis**
+
+    - **Description:** This application analyzes incoming bank reports to calculate the total daily transaction amount.
+    - **Features:**
+        Calculates the daily transaction amount based on incoming bank reports.
+        Allows exporting the results as an Excel file.
+    - **Technologies Used:** Python, Pandas, PyQt5
+
 ### Contact
 
 If you have any questions or feedback, please contact me:
@@ -53,6 +61,14 @@ This repository was created to showcase the experiences I gained and the project
      - Hesaplama sonuçlarını kaydetme ve Excel formatında dışa aktarma.
      - Kullanıcı arayüzü ile kolay kullanım.
    - **Kullanılan Teknolojiler:** Python, Tkinter, SQLite, Pandas
+
+3. **Banka Rapor Analizi**
+
+    - **Açıklama:** Bu uygulama, gelen banka raporlarını analiz ederek günlük işlem tutarını hesaplar.
+    - **Özellikler:**
+        Gelen banka raporlarına göre günlük işlem tutarını hesaplar.
+        Hesaplanan sonuçları Excel dosyası olarak dışa aktarabilir.
+    - **Kullanılan Teknolojiler:** Python, Pandas, PyQt5
 
 ### İletişim
 
