@@ -51,11 +51,11 @@ class MainWindow(QtWidgets.QWidget):
             
     
             for col in df.columns:
-                if col == 'İşlem Tarihi':
+                if col in ['İşlem Tarihi', 'Gün Sonu Tarihi']:
                     date_column = col
                     continue
             
-                if col == 'Tutar':
+                if col in ['Tutar', 'Gün Sonu Tutarı']:
                     amount_column = col
                     continue
             
@@ -96,6 +96,11 @@ class MainWindow(QtWidgets.QWidget):
                 amount_item = QStandardItem(f"{total:,.2f}")
                 
                 model.appendRow([date_item, amount_item])
+            
+            toplam = sum(self.analysis_results.values())
+            toplam_item = QStandardItem("TOPLAM")
+            tutar_item = QStandardItem(f"{toplam:,.2f}")
+            model.appendRow([toplam_item, tutar_item])
             
             # Set model to table view
             self.ui.tableView.setModel(model)
